@@ -1,0 +1,10 @@
+TowerDenfenceTemplate/Library
+TowerDenfenceTemplate/Temp
+TowerDenfenceTemplate/Logs
+TowerDenfenceTemplate/.idea
+TowerDenfenceTemplate.sln
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+TowerDenfenceTemplate/obj/Debug
+JetBrains.meta
+TowerDenfenceTemplate/Assets/Plugins/Editor/JetBrains
